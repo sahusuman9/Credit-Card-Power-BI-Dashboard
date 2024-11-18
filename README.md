@@ -1,7 +1,7 @@
 # Credit_Card_PowerBI_Dashboard
 ## POWER BI DASHBOARD
 
-### Poject Objective
+### Project Objective
 To create a PowerBI Dashboard from the given financial dataset and generate insights.
 
 ### Steps Involved:
