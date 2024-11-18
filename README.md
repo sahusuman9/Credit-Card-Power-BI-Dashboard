@@ -18,6 +18,3 @@ To create a PowerBI Dashboard from the given financial dataset and generate insi
   4. Male customers are contributing more in revenue 31M, female 26M
   5. Blue & Silver credit card are contributing to 93% of overall transactions
   6. TX, NY & CA is contributing to 68%
-  7. Overall Activation rate is 57.5%
-  8. Overall Delinquent rate is 6.06%
-
